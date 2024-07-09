@@ -6,7 +6,7 @@ Aplicacion Java que convierte un valor en Celsius a Fahrenheit.
 
 ## Compilacion
 
-Utilizar Maven.
+Compilacion utilizando [Apache Maven Compiler Plugin](https://maven.apache.org/plugins/maven-compiler-plugin/)
 
 ```bash
 mvn clean install
