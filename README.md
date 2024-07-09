@@ -2,7 +2,7 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/sanchezih/convertidor-celsius-fahrenheit)
 ![GitHub repo size](https://img.shields.io/github/repo-size/sanchezih/convertidor-celsius-fahrenheit)
 
-Aplicacion Java que convierte un valor en Celsius a Fahrenheit.
+Aplicacion Java/Maven que convierte un valor en Celsius a Fahrenheit. Esta aplicacion se puede utilizar como ejemplo para ver como compilar y ejecutar una aplicacion Java sin la necesidad de utilizar un IDE.
 
 ## Compilacion
 
