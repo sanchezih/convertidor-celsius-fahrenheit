@@ -29,7 +29,7 @@
 						<manifest>
 							<addClasspath>true</addClasspath>
 							<classpathPrefix>lib/</classpathPrefix>
-							<mainClass>com.github.sanchezih.Main</mainClass>
+							<mainClass>com.github.sanchezih.convertidor.Main</mainClass>
 						</manifest>
 					</archive>
 				</configuration>
